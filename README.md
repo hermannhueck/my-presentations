@@ -2,15 +2,6 @@
 
 Overview of my repos containing presentations
 
-<div class="alert {{alert.modifier}}">
-  <strong>{{ alert.strong }}</strong>{{ alert.message }}
-</div>
-
-{% capture nameOfVariableToCapture %}any markdown here...{% endcapture %}
-
-{{ nameOfVariableToCapture }}
-
-
 ## Presentation Links
 
 - New in Scala 2.13:<br/>
