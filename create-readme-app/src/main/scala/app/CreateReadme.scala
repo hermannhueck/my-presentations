@@ -7,7 +7,7 @@ import java.io.PrintWriter
 object CreateReadme extends App {
 
   val header =
-s"""# My Presentations
+s"""# My Repos with Presentations
 
 Overview of my repos containing presentations
 
