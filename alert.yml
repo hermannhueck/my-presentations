@@ -1,4 +1,0 @@
-# alert.yml
-modifier: alert-warning
-strong: Be advised!
-message: this is an alert from <%= site.name %> # pass in the site name
