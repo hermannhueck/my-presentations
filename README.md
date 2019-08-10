@@ -1,9 +1,7 @@
-{% capture nameOfVariableToCapture %}any markdown here...{% endcapture %}
-
 # My Presentations
 
 Overview of my repos containing presentations
-:
+
 ## Presentation Links
 
 - New in Scala 2.13:<br/>
@@ -16,6 +14,7 @@ Overview of my repos containing presentations
   [View PDF](https://github.com/hermannhueck/howto-scalafix-my-code/blob/master/slides/howto-scalafix-my-code.pdf)
   &nbsp; &nbsp; &nbsp; &nbsp; [Download PDF](https://github.com/hermannhueck/howto-scalafix-my-code/raw/master/slides/howto-scalafix-my-code.pdf)
 
+{% capture nameOfVariableToCapture %}any markdown here...{% endcapture %}
 
 Content before variable.
 {{ nameOfVariableToCapture }}
