@@ -3,6 +3,10 @@
 Overview of my repos containing presentations
 
 ## Presentation Links
+- A Taste of Dotty: https://github.com/hermannhueck/taste-of-dotty<br/>
+  [View PDF](https://github.com/hermannhueck/taste-of-dotty/blob/master/slides/taste-of-dotty.pdf)
+  &nbsp; &nbsp; &nbsp; &nbsp; [Download PDF](https://github.com/hermannhueck/taste-of-dotty/raw/master/slides/taste-of-dotty.pdf)
+
 - New in Scala 2.13: https://github.com/hermannhueck/new-in-scala213<br/>
   [View PDF](https://github.com/hermannhueck/new-in-scala213/blob/master/slides/New-in-Scala-2.13.pdf)
   &nbsp; &nbsp; &nbsp; &nbsp; [Download PDF](https://github.com/hermannhueck/new-in-scala213/raw/master/slides/New-in-Scala-2.13.pdf)
